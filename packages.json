@@ -2,11 +2,11 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : null,
-      "name" : "Create Modpack",
+      "title" : "Kenyérkraft pvp",
+      "name" : "pvpPack",
       "version" : "1.0",
-      "location" : "create-modpack.json",
-      "priority" : 0
+      "location" : "pvppack.json",
+      "priority" : 1
     }
   ]
 }
