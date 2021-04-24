@@ -4,7 +4,7 @@
     {
       "title" : "Kenyérkraft pvp",
       "name" : "pvpPack",
-      "version" : "1.0",
+      "version" : "1.1",
       "location" : "pvppack.json",
       "priority" : 1
     }
